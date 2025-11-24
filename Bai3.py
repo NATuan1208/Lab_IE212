@@ -26,7 +26,7 @@ def main():
         
         users_rdd = sc.textFile("users.txt")\
             .map(parse_line)\
-            .map(lambda x: (x[0], x[2]))  # (userId, gender)
+            .map(lambda x: (x[0], x[1]))  # (userId, gender) - format: userId,gender,age,occupation,zipCode
         
         
         ratings_mapped = ratings_rdd.map(lambda x: (x[0], (x[1], float(x[2]))))
