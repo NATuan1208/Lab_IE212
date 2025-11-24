@@ -97,22 +97,23 @@ def main():
 		results_sorted = sorted(results, key=lambda x: x[0])
 		
 		# In kết quả
-		print("=== Danh sách phim và điểm đánh giá ===")
+		# Print movie ratings in English format
 		for title, avg, total in results_sorted:
-			print(f"{title} Điểm trung bình: {avg} (Tổng lượt đánh giá: {total})")
-		
-		# Tìm phim có điểm cao nhất (ít nhất 5 ratings)
-		print("\n=== Kết quả ===")
+			print(f"{title} AverageRating: {avg} (TotalRatings: {total})")
+
+		# Find highest rated movie (at least 5 ratings)
 		top_movies = sorted(
 			[r for r in results if r[2] >= 5],
 			key=lambda x: (-x[1], -x[2])
 		)
-		
+
 		if top_movies:
 			title, avg, total = top_movies[0]
-			print(f"{title} là phim có điểm trung bình cao nhất: {avg} (tối thiểu 5 lượt đánh giá)")
+			print()
+			print(f"{title} is the highest rated movie with an average rating of {avg} among movies with at least 5 ratings.")
 		else:
-			print("Không có phim nào có ít nhất 5 lượt đánh giá.")
+			print()
+			print("No movie has at least 5 ratings.")
 	
 	finally:
 		spark.stop()
