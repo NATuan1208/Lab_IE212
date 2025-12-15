@@ -1,0 +1,33 @@
+============================================================
+PHAN TICH SO LUONG DON HANG THEO QUOC GIA
+============================================================
+
+Germany: 41,754 don hang
+France: 12,848 don hang
+Netherlands: 11,629 don hang
+Belgium: 5,464 don hang
+Austria: 5,043 don hang
+Switzerland: 3,640 don hang
+United Kingdom: 3,382 don hang
+Poland: 2,139 don hang
+Czechia: 2,034 don hang
+Italy: 2,025 don hang
+Spain: 1,651 don hang
+Portugal: 1,336 don hang
+Sweden: 975 don hang
+Denmark: 905 don hang
+Serbia: 746 don hang
+Norway: 716 don hang
+Slovakia: 534 don hang
+Slovenia: 495 don hang
+Turkey: 485 don hang
+Greece: 412 don hang
+Lithuania: 351 don hang
+Latvia: 280 don hang
+Croatia: 254 don hang
+Estonia: 148 don hang
+Finland: 81 don hang
+Luxembourg: 68 don hang
+Andorra: 46 don hang
+
+============================================================
