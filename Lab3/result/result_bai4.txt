@@ -1,0 +1,39 @@
+============================================================
+PHAN TICH SO LUONG DON HANG THEO NAM, THANG
+============================================================
+
+NAM 2022:
+------------------------------------------------------------
+  Thang 12: 1 don hang
+  Thang 10: 324 don hang
+  Thang  9: 4 don hang
+
+NAM 2023:
+------------------------------------------------------------
+  Thang 12: 5,673 don hang
+  Thang 11: 7,544 don hang
+  Thang 10: 4,631 don hang
+  Thang  9: 4,285 don hang
+  Thang  8: 4,331 don hang
+  Thang  7: 4,026 don hang
+  Thang  6: 3,245 don hang
+  Thang  5: 3,700 don hang
+  Thang  4: 2,404 don hang
+  Thang  3: 2,682 don hang
+  Thang  2: 1,780 don hang
+  Thang  1: 800 don hang
+
+NAM 2024:
+------------------------------------------------------------
+  Thang 10: 4 don hang
+  Thang  9: 16 don hang
+  Thang  8: 6,512 don hang
+  Thang  7: 6,292 don hang
+  Thang  6: 6,167 don hang
+  Thang  5: 6,873 don hang
+  Thang  4: 6,939 don hang
+  Thang  3: 7,211 don hang
+  Thang  2: 6,728 don hang
+  Thang  1: 7,269 don hang
+
+============================================================
