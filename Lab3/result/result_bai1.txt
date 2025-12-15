@@ -1,0 +1,53 @@
+data/Customer_List.csv
+  - Customer_Trx_ID: string
+  - Subscriber_ID: string
+  - Subscribe_Date: date
+  - First_Order_Date: date
+  - Customer_Postal_Code: string
+  - Customer_City: string
+  - Customer_Country: string
+  - Customer_Country_Code: string
+  - Age: int
+  - Gender: string
+
+
+data/Order_Items.csv
+  - Order_ID: string
+  - Order_Item_ID: int
+  - Product_ID: string
+  - Seller_ID: string
+  - Shipping_Limit_Date: timestamp
+  - Price: double
+  - Freight_Value: double
+
+
+data/Order_Reviews.csv
+  - Review_ID: string
+  - Order_ID: string
+  - Review_Score: string
+  - Review_Comment_Title_En: string
+  - Review_Comment_Message_En: string
+  - Review_Creation_Date: string
+  - Review_Answer_Timestamp: timestamp
+
+
+data/Orders.csv
+  - Order_ID: string
+  - Customer_Trx_ID: string
+  - Order_Status: string
+  - Order_Purchase_Timestamp: timestamp
+  - Order_Approved_At: timestamp
+  - Order_Delivered_Carrier_Date: timestamp
+  - Order_Delivered_Customer_Date: timestamp
+  - Order_Estimated_Delivery_Date: timestamp
+
+
+data/Products.csv
+  - Product_ID: string
+  - Product_Category_Name: string
+  - Product_Weight_Gr: int
+  - Product_Length_Cm: int
+  - Product_Height_Cm: int
+  - Product_Width_Cm: int
+
+
