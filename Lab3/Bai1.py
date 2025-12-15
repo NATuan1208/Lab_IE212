@@ -54,4 +54,4 @@ print(schema_output)
 # Đóng Spark Session
 spark.stop()
 
-print("✅ Hoàn thành! Kết quả đã được lưu vào file result/result_bai1.txt")
+print("Hoàn thành! Kết quả đã được lưu vào file result/result_bai1.txt")
