@@ -299,7 +299,7 @@ output_frames/
 
 ### Ket Luan
 
-✅ **Pipeline hoat dong toan phan thanh cong**:
+**Pipeline hoat dong toan phan thanh cong**:
 - TCP Socket communication giua Camera Server va Spark Processor
 - Spark Structured Streaming nhan va xu ly real-time video frames
 - MediaPipe TFLite model xoa background tu frames
